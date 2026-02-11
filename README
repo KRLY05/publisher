@@ -1,0 +1,9 @@
+# Publisher
+
+Publisher is a webapp with collection of auto-translated articles, built with [Astro](https://astro.build/), [Tailwind CSS](https://tailwindcss.com/) and based on [astro-paper](https://github.com/satnaing/astro-paper).
+
+Read ASTROPAPER_README.md for more info.
+
+# Disclaimer
+
+This project is mostly based on templates and vibe-coded.
